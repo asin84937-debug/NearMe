@@ -76,11 +76,11 @@ gingee fort.html
     </body>
 </html>
 
-permpugai.html
+perumpugai.html
 <html>
     <head>
         <title>
-            permpugai
+            perumpugai
         </title>
     </head>
     <body bgcolor="blue" align="center">
@@ -88,7 +88,7 @@ permpugai.html
         <h1>PERUMPUGAI</h1>
         <hr>
 
-        <h2>permpugai is a peaceful village area surrounded by greenery and a calm rural atmosphere</h2>
+        <h2>perumpugai is a peaceful village area surrounded by greenery and a calm rural atmosphere</h2>
     </body>
 </html>
 
